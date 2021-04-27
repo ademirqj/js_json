@@ -191,7 +191,7 @@ fetchData();
 
 ##Go to HTML.
 
-- We create a basic html and link with the JavaScript through paragraph ID "showhtml" and "showhtml2" to the second JSON.
+- We create a basic html and link with the JavaScript through paragraph ID "showhtml" and "showhtml2" to show the content.
 
 ```html
 <!DOCTYPE html>
