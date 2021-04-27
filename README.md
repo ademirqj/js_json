@@ -9,7 +9,7 @@
  - The objective  here is find a way to consume a URL JSON, and then we concetrate only in JavaScript code and make a basic html page to show this results.
  - We use Fetch API in JavaScript to make this. There are other ways, but we use JavaScript with Fetch.
  
-##View JSON content
+## View JSON content
 - To start we need to know what has inside the JSON, I use a free Google App  POSTMAN to make this.
 
 
@@ -222,7 +222,7 @@ fetchData();
 
 </html>
 ```
-#The Result
+# The Result
 
 <img src="/img/resultimg.png">
 
