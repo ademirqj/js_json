@@ -92,7 +92,7 @@ fetchData();
 
 
 - I Just consume the results of JSON after this, but we need to show the results in screen and then we make a way to show in HTML.
-- We create a getElement link with paragraph in index.html named "showhtml", and put the JSON content inside a paragraph.
+- We create a getElement link with paragraph in index.html named "showhtml" and "showhtml2", and put the JSON content inside a paragraph.
 
 
 
