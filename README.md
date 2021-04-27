@@ -1,4 +1,5 @@
-#Create a JavaScript to consume different JSON object URL.
+# Create a JavaScript to consume different JSON object URL.
+
 ### Find a way to use the API (http://worldclockapi.com/): 
 ### Requirements:
 - You need to display the results on screen;
@@ -42,7 +43,7 @@
 }
 ```
 
-##Go to JavaScript.
+## Go to JavaScript.
 
 - We just know what is inside the JSON, and now we make a way to work with this in java script.
 
@@ -126,7 +127,7 @@ const response = [data]
 
         })
 ```
-##The entire  JavaScript code.
+## The entire  JavaScript code.
 
 ```javascript
 const url1 = new URL('http://worldclockapi.com/api/json/est/now');
@@ -189,7 +190,7 @@ function fetchData() {
 fetchData();
 ```
 
-##Go to HTML.
+## Go to HTML.
 
 - We create a basic html and link with the JavaScript through paragraph ID "showhtml" and "showhtml2" to show the content.
 
@@ -225,4 +226,4 @@ fetchData();
 
 <img src="/img/resultimg.png">
 
-###End
+### End
