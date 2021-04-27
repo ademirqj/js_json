@@ -91,8 +91,8 @@ fetchData();
 ```
 
 
-- I Just consume the results of JSON after this, but we need to show the results in screen and then we make a way to show in HTML.
-- We create a getElement link with paragraph in index.html named "showhtml" and "showhtml2", and put the JSON content inside a paragraph.
+- I can consume the results of JSON after this, but we need to show the results on screen and then we make a way to do thi in HTML.
+- Basically, we create a getElement link with a paragraph in the index.html called "showhtml" and "showhtml2", and put the JSON content inside, and here in the javascript code we declare a const response to receive the data and put it in the element ID.
 
 
 
@@ -210,7 +210,7 @@ fetchData();
 
 <body>
     <hr />
-    <h1>Read a JSON using FETCH with JS .</h1>
+    <h1>Read a JSON using FETCH with JavaScript .</h1>
     <hr />
     <p id="showhtml"></p>
     <hr />
