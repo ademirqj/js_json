@@ -1,7 +1,7 @@
 
 const url1 = new URL ('http://worldclockapi.com/api/json/est/now');
 const url2 = new URL ('http://worldclockapi.com/api/json/utc/now');
-
+//
 function fetchData() {
     fetch(url1)    
     .then(response => {
